@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Html, CSS, Javascript, Figma**
 
-- 📫 Email me **lucienlmp@hotmail.com**
+- 📫 Email me  **lucienlmp@hotmail.com**
 
 - 📄 My linkedIn [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
