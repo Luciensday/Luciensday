@@ -15,7 +15,7 @@
 
 - 📄 My linkedIn [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
-- ⚡ Fun fact **I am pretty crafty (in terms of making objects, garments, decoration..etc)**
+- ⚡ Fun fact: **I am pretty crafty (in terms of making objects, garments, decoration..etc) **
 
   
 
