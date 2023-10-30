@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Bookster](https://github.com/FAC29A/fran-and-lucien-API-project) - an API/HTTP Project for discovered books from various source
+- 🔭  I’m currently working on [Bookster](https://github.com/FAC29A/fran-and-lucien-API-project) - an API/HTTP project for discovering books from various sources.
 
 - 🌱 I’m currently trained **at Founders and Coders (FAC29!)**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Html, CSS, Javascript, Figma**
 
-- ⚡ Fun fact: **I am pretty crafty (in terms of making objects, garments, decoration..etc) **
+- ⚡ Fun fact: **I am pretty crafty in terms of making objects, garments, decorations, etc.**
 
   
 
