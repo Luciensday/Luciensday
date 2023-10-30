@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Bookster - an API/HTTP Project for discovered books from various source](https://github.com/FAC29A/fran-and-lucien-API-project)
+- 🔭 I’m currently working on [Bookster](https://github.com/FAC29A/fran-and-lucien-API-project) - an API/HTTP Project for discovered books from various source
 
 - 🌱 I’m currently trained **at Founders and Coders (FAC29!)**
 
