@@ -11,10 +11,6 @@
 
 - 💬 Ask me about **Html, CSS, Javascript, Figma**
 
-- 📫 Email me  **lucienlmp@hotmail.com**
-
-- 📄 My linkedIn [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
-
 - ⚡ Fun fact: **I am pretty crafty (in terms of making objects, garments, decoration..etc) **
 
   
