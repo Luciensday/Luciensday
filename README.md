@@ -3,8 +3,6 @@
 
 
 
-- 🔭  I’m currently working on [Bookster](https://github.com/FAC29A/fran-and-lucien-API-project) - an API/HTTP project for discovering books from various sources.
-
 - 🌱 I’m currently trained **at Founders and Coders (FAC29!)**
 
 - 👨‍💻 Visit my webpage: [https://luciensday.github.io](https://luciensday.github.io)
