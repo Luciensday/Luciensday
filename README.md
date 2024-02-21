@@ -9,7 +9,7 @@
 
 - 👨‍💻 Visit my webpage: [https://luciensday.github.io](https://luciensday.github.io)
 
-- 💬 Ask me about: **Html, CSS, Javascript, Figma**
+- 💬 Ask me about: **Node.js, React, Html, CSS, SQL, Javascript, Figma**
 
 - ⚡ Fun fact: **I am pretty crafty in terms of making objects, garments, decorations, etc.**
 
