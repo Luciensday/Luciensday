@@ -3,11 +3,12 @@
 
 
 
-- 🌱 I’m currently trained **at Founders and Coders (FAC29!)**
+- 🌱 I’m currently learning Generative AI with **at Encode Bootcamp**
+- Completed full-stack developer training **at Founders and Coders (FAC29!)**
 
 - 👨‍💻 Visit my webpage: [https://luciensday.github.io](https://luciensday.github.io)
 
-- 💬 Ask me about: **Node.js, React, Html, CSS, SQL, Javascript, Figma**
+- 💬 Ask me about: **Node.js, React, Html, CSS, SQL, Javascript, Figma Python**
 
 - ⚡ Fun fact: **I am pretty crafty in terms of making objects, garments, decorations, etc.**
 
