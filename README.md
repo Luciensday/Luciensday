@@ -3,8 +3,8 @@
 
 
 
-- 🌱 I’m currently learning Generative AI with **at Encode Bootcamp**
-- Completed full-stack developer training **at Founders and Coders (FAC29!)**
+- 🌱 I’m currently learning SRE and DevOps **at Mthree** 
+- Completed full-stack developer training **at Founders and Coders (FAC29!)** &  Generative AI training with **at Encode Bootcamp**
 
 - 👨‍💻 Visit my webpage: [https://luciensday.github.io](https://luciensday.github.io)
 
