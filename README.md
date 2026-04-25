@@ -67,7 +67,6 @@ Application Insights, Log Analytics (KQL), Fortify, Nexus IQ
 
 ### Links
 
-* Website: https://luciensday.github.io
 * LinkedIn: https://linkedin.com/in/lucien-lin-yh
 
 ---
