@@ -1,42 +1,86 @@
-<h1 align="center">Hi 👋, I'm Lucien Lin</h1>
-<h3 align="center">A creative coder based in London with design/fashion background</h3>
+<h1 align="center">Hi, I'm Lucien Lin</h1>
+<h3 align="center">Platform Engineer in London | Azure • .NET • Cloud Systems</h3>
 
+---
 
+### About Me
 
-- 🌱 I’m currently learning SRE and DevOps **at Mthree** 
-- Completed full-stack developer training **at Founders and Coders (FAC29!)** &  Generative AI training with **at Encode Bootcamp**
+Platform Engineer focused on building scalable, reliable, and cost-efficient systems in Azure.
 
-- 👨‍💻 Visit my webpage: [https://luciensday.github.io](https://luciensday.github.io)
+Background in design and fashion, now working across backend engineering, cloud infrastructure, and DevOps.
+I enjoy turning complex operational problems into simple, automated solutions.
 
-- 💬 Ask me about: **Node.js, React, Html, CSS, SQL, Javascript, Figma Python, DevOps, AWS**
+---
 
-- ⚡ Fun fact: **I am pretty crafty in terms of making objects, garments, decorations, etc.**
+### Current Focus
 
-  
+* Cloud-native architecture on Azure
+* CI/CD and infrastructure automation (GitLab / Azure DevOps / Terraform)
+* Distributed systems (messaging, caching, background processing)
+* Performance optimisation and cost reduction
+* Applying AI to real-world engineering problems
 
-----
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lucien-lin-yh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucien-lin-yh" height="30" width="40" /></a>
-<a href="https://instagram.com/il.lucien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="il.lucien" height="30" width="40" /></a>
-</p>
+---
 
-------
+### Tech Stack
 
+**Backend & Languages**
+C# / .NET (6–8), ASP.NET Core, Python
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
+**Cloud & DevOps**
+Azure (Functions, Service Bus, Event Grid, Cosmos DB, App Service)
+Terraform, GitLab CI/CD, Azure DevOps
 
-----
+**Architecture & Data**
+Redis, event-driven systems, microservices
 
+**Observability & Security**
+Application Insights, Log Analytics (KQL), Fortify, Nexus IQ
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luciensday&show_icons=true&locale=en&layout=compact" alt="luciensday" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luciensday&show_icons=true&locale=en" alt="luciensday" /></p>
+### Selected Work
 
-<div align='center'>
-<h2> 🏆 GitHub Trophies </h2>
+* Built internal platform services to orchestrate and monitor virtual environments
+* Migrated infrastructure from scripts to Terraform
+* Designed Redis-based global holiday caching system (geo-aware)
+* Improved CI/CD pipelines to increase reliability and reduce build friction
+* Working on predictive models for system usage patterns
 
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luciensday" alt="luciensday" /></a> </p>
+### Side Projects
 
+* AI-powered language learning tool (image → vocabulary → spaced learning)
+* Fashion & brand intelligence app (style generation based on brand DNA)
+
+---
+
+### How I Work
+
+* Prefer simple and maintainable solutions
+* Focus on measurable impact (cost, performance, reliability)
+* Strong debugging mindset — understand root cause, not just fix
+* Comfortable across backend, infrastructure, and pipelines
+
+---
+
+### Links
+
+* Website: https://luciensday.github.io
+* LinkedIn: https://linkedin.com/in/lucien-lin-yh
+
+---
+
+### Previous Background
+
+* Full-stack training at Founders and Coders (FAC)
+* Generative AI training at Encode Bootcamp
+
+---
+
+### Tools I Use
+
+Azure • .NET • Terraform • GitLab • Docker • Redis • Python • Linux
+
+---
